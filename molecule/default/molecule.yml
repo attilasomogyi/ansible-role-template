@@ -1,0 +1,19 @@
+---
+dependency:
+  name: galaxy
+driver:
+  name: docker
+platforms:
+  - name: Debian
+    image: attilasomogyi/debian-docker-image:latest
+    pre_build_image: true
+  - name: Archlinux
+    image: attilasomogyi/archlinux-docker-image:latest
+    pre_build_image: true
+  - name: RedHat
+    image: almalinux:latest
+    pre_build_image: false
+provisioner:
+  name: ansible
+verifier:
+  name: ansible

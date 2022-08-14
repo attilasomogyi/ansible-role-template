@@ -3,6 +3,7 @@ galaxy_info:
   description: Template role
   company: United Federation of Planets
   license: MIT
+  role_name: ansible_role_template
 
   min_ansible_version: 2.13
 

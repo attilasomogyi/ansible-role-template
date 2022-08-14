@@ -1,10 +1,10 @@
 galaxy_info:
   author: attilasomogyi
   description: Template role
-  company: Earth
+  company: United Federation of Planets
   license: MIT
 
-  min_ansible_version: 2.1
+  min_ansible_version: 2.13
 
   # If this a Container Enabled role, provide the minimum Ansible Container version.
   # min_ansible_container_version:

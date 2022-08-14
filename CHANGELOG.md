@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/attilasomogyi/ansible-role-template/compare/v1.0.0...v1.1.0) (2022-08-14)
+
+
+### Features
+
+* **core:** add molecule support ([0d2d5a0](https://github.com/attilasomogyi/ansible-role-template/commit/0d2d5a0c72039408fdb998a06218aafa2d318bb8))
+
 # 1.0.0 (2022-08-14)
 
 

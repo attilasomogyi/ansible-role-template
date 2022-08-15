@@ -11,8 +11,8 @@ platforms:
     image: attilasomogyi/archlinux-docker-image:latest
     pre_build_image: true
   - name: RedHat
-    image: almalinux:latest
-    pre_build_image: false
+    image: attilasomogyi/almalinux-docker-image:latest
+    pre_build_image: true
 provisioner:
   name: ansible
 verifier:

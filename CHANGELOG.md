@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/attilasomogyi/ansible-role-template/compare/v1.1.0...v1.2.0) (2022-08-15)
+
+
+### Features
+
+* **molecule:** add pre build almalinux image ([c742234](https://github.com/attilasomogyi/ansible-role-template/commit/c742234cc2fcaf94b11e929ffcf932fc3273faec))
+
 # [1.1.0](https://github.com/attilasomogyi/ansible-role-template/compare/v1.0.0...v1.1.0) (2022-08-14)
 
 
